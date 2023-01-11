@@ -1,0 +1,24 @@
+
+body {
+    background-color: #CEEDC7
+}
+
+hr {
+    width: 8%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgba(36, 60, 83, 0.103);          
+    border-width: 8px;
+}
+
+h1 {
+    color: #66bfbf;
+}
+
+h2 {
+    color: #66bfbf;
+}
+
+h3 {
+    color: #66bfbf;
+}
